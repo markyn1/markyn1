@@ -180,7 +180,7 @@ Atualmente, venho aprofundando meus conhecimentos em arquitetura de software, de
 * 🐳 Containerização com Docker
 * 🌐 Servidores Linux e Nginx
 * 🚀 Deploy e infraestrutura
-* 🎮 Desenvolvimento de scripts e sistemas para FiveM
+* 🎮 Desenvolvimento de scripts e sistemas para Jogos 
 * 🧩 Arquitetura e organização de aplicações
 
 ---

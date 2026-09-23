@@ -185,21 +185,5 @@ Também tenho interesse em **infraestrutura e DevOps**, trabalhando com **Docker
 
 ### 📊 Estatísticas
 
-[<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=markyn1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://ghstats.dev/api/langs?username=markyn1&max_langs=12)" 
-  />
-
-<img 
- align="left" 
- alt="GitHub Stats" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyn1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-</p>](https://ghstats.dev/api/langs?username=markyn1&max_langs=12)
+<img src="https://ghstats.dev/api/langs?username=markyn1&max_langs=12" alt="Top Languages" />
 

@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo **Marcos Henrique**, sou brasileiro e estudante de **Sistemas de Informação no Instituto Federal de Sergipe (IFS)**. Sou apaixonado por tecnologia e desenvolvimento de software, com foco na construção de aplicações web, APIs e sistemas completos.
+Me chamo **Marcos Henrique**, sou brasileiro e estudante de **Sistemas de Informação no Instituto Federal de Sergipe (IFS)**. atualmente foco na construção de aplicações web, APIs e sistemas completos.
 
 Tenho experiência com desenvolvimento **Full Stack**, trabalhando principalmente com **TypeScript, JavaScript, Vue.js, Nuxt.js, Next.js e Node.js**, além de bancos de dados relacionais como **MySQL e MariaDB**.
 
-Também tenho interesse em **infraestrutura e DevOps**, trabalhando com **Docker, Nginx, Linux e CI/CD**, além de desenvolvimento de servidores e sistemas para **FiveM** utilizando Lua.
+Também tenho interesse em **infraestrutura e DevOps**, trabalhando com **Docker, Nginx, Linux e CI/CD**, além de desenvolvimento de servidores.
 
 Atualmente, venho aprofundando meus conhecimentos em arquitetura de software, desenvolvimento web, bancos de dados, infraestrutura e boas práticas de programação.
 

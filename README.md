@@ -8,8 +8,6 @@ Tenho experiência com desenvolvimento **Full Stack**, trabalhando principalment
 
 Também tenho interesse em **infraestrutura e DevOps**, trabalhando com **Docker, Nginx, Linux e CI/CD**, além de desenvolvimento de servidores.
 
-Atualmente, venho aprofundando meus conhecimentos em arquitetura de software, desenvolvimento web, bancos de dados, infraestrutura e boas práticas de programação.
-
 ---
 
 ### 🚀 Linguagens e Tecnologias
